@@ -14,7 +14,7 @@ NFe.io test requested by Gabriel Marquez
 **Requirements**
 Python 3
 
-**Running**
+**Running** <br />
 Execute *taxes.py* in the terminal. e.g.: python taxes.py
 
 ## HOW TO USE
